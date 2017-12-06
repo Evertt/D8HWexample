@@ -1,6 +1,6 @@
 {
   "name": "Evertt/hello_world",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Hello World module.",
   "type": "drupal-module",
   "homepage": "https://github.com/Evertt/D8HWexample",
