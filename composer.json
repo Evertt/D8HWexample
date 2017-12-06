@@ -1,5 +1,5 @@
 {
-  "name": "Evertt/hello_world",
+  "name": "Evertt/hello_world_module",
   "version": "0.0.2",
   "description": "A Hello World module.",
   "type": "drupal-module",
